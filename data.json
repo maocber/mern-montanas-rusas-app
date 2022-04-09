@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Shambhala",
+      "description": "Descriopción de Shambhala",
+      "length": 1000,
+      "inversion": 0,
+      "imageUrl": "https://farm6.staticflickr.com/5626/21205099940_a5679b81b6_c.jpg"
+    },
+    {
+      "title": "Kinda Ka",
+      "description": "Descriopción de Kinda",
+      "length": 950,
+      "inversion": 0,
+      "imageUrl": "https://farm6.staticflickr.com/5626/21205099940_a5679b81b6_c.jpg"
+    },
+    {
+      "title": "Steel Dragon",
+      "description": "Descriopción de Steel Dragon",
+      "length": 1250,
+      "inversion": 0,
+      "imageUrl": "https://farm6.staticflickr.com/5626/21205099940_a5679b81b6_c.jpg"
+    }
+]
